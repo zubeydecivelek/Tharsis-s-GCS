@@ -1,0 +1,107 @@
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Form1.Designer.cs
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\tharsis-s.exe.config
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\tharsis-s.exe
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\tharsis-s.pdb
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\EntityFramework.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\EntityFramework.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.AssemblyReference.cache
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.SuggestedBindingRedirects.cache
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis_s.Form1.resources
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis_s.Properties.Resources.resources
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.GenerateResource.cache
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.CoreCompileInputs.cache
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.CopyComplete
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.exe
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.pdb
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Drawing.Common.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Drawing.Common.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\GMap.NET.Core.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Data.SqlClient.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Data.SqlClient.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis_s.Form2.resources
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\WinSCP.exe
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\FluentFTP.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\SuperSimpleTcp.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\WinSCPnet.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\FluentFTP.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s_Content.g.cs
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s_MarkupCompile.cache
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s_MarkupCompile.lref
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\UserControl1.g.cs
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\UserControl1.baml
+C:\Users\zubey\source\repos\tharsis-s\tharsis-s\obj\Debug\tharsis-s.g.resources
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\WinSCP.exe
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Form1.Designer.cs
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\tharsis-s.exe.config
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\tharsis-s.exe
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\tharsis-s.pdb
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Bitmap.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetFramework.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetStandard.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\EntityFramework.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\FluentFTP.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\GMap.NET.Core.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\GMap.NET.WindowsPresentation.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.Wpf.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Data.SqlClient.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Drawing.Common.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\WinSCPnet.dll
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Bitmap.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetFramework.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Emgu.CV.Platform.NetStandard.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\EntityFramework.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\FluentFTP.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\HelixToolkit.Wpf.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Data.SqlClient.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Data.SQLite.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Drawing.Common.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.AssemblyReference.cache
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.SuggestedBindingRedirects.cache
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\UserControl1.g.cs
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s_Content.g.cs
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s_MarkupCompile.cache
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s_MarkupCompile.lref
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\UserControl1.baml
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.g.resources
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis_s.Form1.resources
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis_s.Form2.resources
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis_s.Properties.Resources.resources
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.GenerateResource.cache
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.CoreCompileInputs.cache
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.csproj.CopyComplete
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.exe
+C:\Users\zubey\source\repos\Yeni klasör (2)\tharsis-s\tharsis-s\obj\Debug\tharsis-s.pdb
